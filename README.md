@@ -14,114 +14,118 @@ Topic 1 : (Arrays)
     6.	Merge Overlapping Subintervals                                                                                  
 
 
-Topic 2: (Arrays)
-    1.	Set Matrix Zeros
-    2.	Pascal Triangle
-    3.	Next Permutation
-    4.	Inversion of Array (Using Merge Sort)
-    5.	Stock Buy and Sell
-    6.	Rotate Matrix  
-Topic 3: (Math)
-    1.	Excel Column Number
-    2.	Find n^x in log N
-    3.	Count trailing zeros in factorial of a number
-    4.	Find GCD in Log N
-    5.	Grid Unique Paths
-    6.	Go through Puzzles from GFG (Search on own)
-Topic 4: (Hashing)
-    1.	2 Sum problem
-    2.	4 Sum problem
-    3.	Longest Consecutive Sequence
-    4.	Longest Subarray with 0 sum
-    5.	Count number of subarrays with given XOR(this clears a lot of problems)
-    6.	Longest substring without repeat
-Topic 5: (LinkedList)
-    1.	Reverse a LinkedList
-    2.	Find middle of LinkedList
-    3.	Merge two sorted Linked List
-    4.	Remove N-th node from back of LinkedList
-    5.	Delete a given Node when a node is given. (0(1) solution)
-    6.	Add two numbers as LinkedList  
-Topic 6:
-    1.	Find intersection point of Y LinkedList
-    2.	Check if a LinkedList is palindrome or not.
-    3.	Reverse a LinkedList in groups.
-    4.	Detect a cycle and removing loop(two different questions and same concept)
-    5.	Flattening of a LinkedList
-    6.	Rotate a LinkedList
-    7.	Clone a Linked List with random and next pointer.
+Topic 2: (Arrays)                                                                                  
+    1.	Set Matrix Zeros                                                                                  
+    2.	Pascal Triangle                                                                                  
+    3.	Next Permutation                                                                                  
+    4.	Inversion of Array (Using Merge Sort)                                                                                  
+    5.	Stock Buy and Sell                                                                                  
+    6.	Rotate Matrix                                                                                    
+
+                                                                                  
+Topic 3: (Math)                                                                                  
+    1.	Excel Column Number                                                                                  
+    2.	Find n^x in log N                                                                                  
+    3.	Count trailing zeros in factorial of a number                                                                                  
+    4.	Find GCD in Log N                                                                                  
+    5.	Grid Unique Paths                                                                                  
+    6.	Go through Puzzles from GFG (Search on own)                                                                                  
+                                                                                      
+										      
+Topic 4: (Hashing)                                                                                  
+    1.	2 Sum problem                                                                                  
+    2.	4 Sum problem                                                                                  
+    3.	Longest Consecutive Sequence                                                                                  
+    4.	Longest Subarray with 0 sum                                                                                  
+    5.	Count number of subarrays with given XOR(this clears a lot of problems)                                                                                  
+    6.	Longest substring without repeat                                                                                  
+Topic 5: (LinkedList)                                                                                  
+    1.	Reverse a LinkedList                                                                                  
+    2.	Find middle of LinkedList                                                                                  
+    3.	Merge two sorted Linked List                                                                                  
+    4.	Remove N-th node from back of LinkedList                                                                                  
+    5.	Delete a given Node when a node is given. (0(1) solution)                                                                                  
+    6.	Add two numbers as LinkedList                                                                                    
+Topic 6:                                                                                  
+    1.	Find intersection point of Y LinkedList                                                                                  
+    2.	Check if a LinkedList is palindrome or not.                                                                                  
+    3.	Reverse a LinkedList in groups.                                                                                  
+    4.	Detect a cycle and removing loop(two different questions and same concept)                                                                                  
+    5.	Flattening of a LinkedList                                                                                  
+    6.	Rotate a LinkedList                                                                                  
+    7.	Clone a Linked List with random and next pointer.                                                                                  
 .
-Topic 7: (2-pointer)
-    1.	Merge two sorted LinkedLists
-    2.	Find the starting point of the loop.
-    3.	3 sum
-    4.	Trapping rainwater
-    5.	Remove Duplicate from Sorted array
-    6.	Max continuous number of 1’s  
-Topic 8: (Greedy)
-    1.	N meeting in one room
-    2.	Activity Selection  
-    3.	Greedy algorithm to find minimum number of coins
+Topic 7: (2-pointer)                                                                                  
+    1.	Merge two sorted LinkedLists                                                                                  
+    2.	Find the starting point of the loop.                                                                                  
+    3.	3 sum                                                                                  
+    4.	Trapping rainwater                                                                                  
+    5.	Remove Duplicate from Sorted array                                                                                  
+    6.	Max continuous number of 1’s                                                                                    
+Topic 8: (Greedy)                                                                                  
+    1.	N meeting in one room                                                                                  
+    2.	Activity Selection                                                                                    
+    3.	Greedy algorithm to find minimum number of coins                                                                                  
     4.	Fractional Knapsack Problem
-    5.	Minimum number of platforms required for a railway
-    6.	Job sequencing Problem
-Topic 9: (Backtracking)
-    1.	N queens Problem
-    2.	Sudoko
-    3.	M coloring Problem
-    4.	Rat in a Maze
-    5.	Print all Permutations of a string/array
-    6.	Word Break (print all ways)  
-Topic 10:
-    1.	Combination sum-1
-    2.	Combination sum-2
-    3.	Palindrome Partioning
-    4.	Subset Sum-1
-    5.	Subset Sum-2
-    6.	K-th permutation Sequence
-Topic 11: (Divide and Conquer)
-    1.	1/N-th root of an integer (use binary search) (square root, cube root, ..)
-    2.	Matrix Median
-    3.	Find the element that appears once in sorted array, and rest element appears twice (Binary search)
-    4.	Search element in a sorted and rotated array.
-    5.	K-th element of two sorted arrays
-    6.	Media of an array    
-Topic 12: (Bits) (Optional, very rare Topic  in interviews, but if you have time left, someone might ask)
-    1.	Check if a number if a power of 2 or not in O(1)
-    2.	Count total set bits
-    3.	Divide Integers without / operator
-    4.	Power Set (this is very important)
-    5.	Find MSB in o(1)
-    6.	Find square of a number without using multiplication or division operators.  
-Topic 13: (Stack and Queue)
-    1.	Implement Stack / Implement Queue
-    2.	BFS
-    3.	Implement Stack using Queue
-    4.	Implement Queue using Stack
-    5.	Check for balanced parentheses
-    6.	Next Greater Element
-Topic 14:
-    1.	Next Smaller Element
-    2.	LRU cache (vvvv. imp)
-    3.	Largest rectangle in histogram
-    4.	Sliding Window maximum
-    5.	Implement Min Stack  
-    6.	Rotten Orange (Using BFS)  
-Topic 15: (String)
-    1.	Reverse Words in a String
-    2.	Longest Palindrome in a string
-    3.	Roman Number to Integer and vice versa
-    4.	Implement ATOI/STRSTR
-    5.	Longest Common Prefix
-    6.	Rabin Karp
-Topic 16: (String)
-    1.	Prefix Function/Z-Function
-    2.	KMP algo
-    3.	Minimum characters needed to be inserted in the beginning to make it palindromic.
-    4.	Check for Anagrams
-    5.	Count and Say
-    6.	Compare version numbers
-Topic 17: (Binary Tree)
+    5.	Minimum number of platforms required for a railway                                                                                  
+    6.	Job sequencing Problem                                                                                  
+Topic 9: (Backtracking)                                                                                  
+    1.	N queens Problem                                                                                  
+    2.	Sudoko                                                                                  
+    3.	M coloring Problem                                                                                  
+    4.	Rat in a Maze                                                                                  
+    5.	Print all Permutations of a string/array                                                                                  
+    6.	Word Break (print all ways)                                                                                    
+Topic 10:                                                                                  
+    1.	Combination sum-1                                                                                  
+    2.	Combination sum-2                                                                                  
+    3.	Palindrome Partioning                                                                                  
+    4.	Subset Sum-1                                                                                  
+    5.	Subset Sum-2                                                                                  
+    6.	K-th permutation Sequence                                                                                  
+Topic 11: (Divide and Conquer)                                                                                  
+    1.	1/N-th root of an integer (use binary search) (square root, cube root, ..)                                                                                  
+    2.	Matrix Median                                                                                  
+    3.	Find the element that appears once in sorted array, and rest element appears twice (Binary search)                                                                                  
+    4.	Search element in a sorted and rotated array.                                                                                  
+    5.	K-th element of two sorted arrays                                                                                  
+    6.	Media of an array                                                                                      
+Topic 12: (Bits) (Optional, very rare Topic  in interviews, but if you have time left, someone might ask)                                                                                  
+    1.	Check if a number if a power of 2 or not in O(1)                                                                                  
+    2.	Count total set bits                                                                                  
+    3.	Divide Integers without / operator                                                                                  
+    4.	Power Set (this is very important)                                                                                  
+    5.	Find MSB in o(1)                                                                                  
+    6.	Find square of a number without using multiplication or division operators.                                                                                    
+Topic 13: (Stack and Queue)                                                                                  
+    1.	Implement Stack / Implement Queue                                                                                  
+    2.	BFS                                                                                  
+    3.	Implement Stack using Queue                                                                                  
+    4.	Implement Queue using Stack                                                                                  
+    5.	Check for balanced parentheses                                                                                  
+    6.	Next Greater Element                                                                                  
+Topic 14:                                                                                  
+    1.	Next Smaller Element                                                                                  
+    2.	LRU cache (vvvv. imp)                                                                                  
+    3.	Largest rectangle in histogram                                                                                  
+    4.	Sliding Window maximum                                                                                  
+    5.	Implement Min Stack                                                                                    
+    6.	Rotten Orange (Using BFS)                                                                                    
+Topic 15: (String)                                                                                  
+    1.	Reverse Words in a String                                                                                  
+    2.	Longest Palindrome in a string                                                                                  
+    3.	Roman Number to Integer and vice versa                                                                                  
+    4.	Implement ATOI/STRSTR                                                                                  
+    5.	Longest Common Prefix                                                                                  
+    6.	Rabin Karp                                                                                  
+Topic 16: (String)                                                                                  
+    1.	Prefix Function/Z-Function                                                                                  
+    2.	KMP algo                                                                                  
+    3.	Minimum characters needed to be inserted in the beginning to make it palindromic.                                                                                  
+    4.	Check for Anagrams                                                                                  
+    5.	Count and Say                                                                                  
+    6.	Compare version numbers                                                                                  
+Topic 17: (Binary Tree)                                                                                                                                                        
     1.	Inorder Traversal (with recursion and without recursion)
     2.	Preorder Traversal (with recursion and without recursion)
     3.	Postorder Traversal (with recursion and without recursion)  
