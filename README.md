@@ -57,7 +57,6 @@ Topic 6:
     6.	Rotate a LinkedList                                                                                  
     7.	Clone a Linked List with random and next pointer.                                                                                                                                                                    
                                             
-.
 Topic 7: (2-pointer)                                                                                  
     1.	Merge two sorted LinkedLists                                                                                  
     2.	Find the starting point of the loop.                                                                                  
@@ -90,6 +89,7 @@ Topic 10:
     4.	Subset Sum-1                                                                                  
     5.	Subset Sum-2                                                                                                                                                            
     6.	K-th permutation Sequence      
+                                            
                                                                                                                         
 Topic 11: (Divide and Conquer)                                                                                  
     1.	1/N-th root of an integer (use binary search) (square root, cube root, ..)                                                                                  
@@ -97,7 +97,8 @@ Topic 11: (Divide and Conquer)
     3.	Find the element that appears once in sorted array, and rest element appears twice (Binary search)                                                                                  
     4.	Search element in a sorted and rotated array.                                                                                  
     5.	K-th element of two sorted arrays                                                                                  
-    6.	Media of an array                                                                                                                                                                        
+    6.	Media of an array                           
+                                                                                                                                                                                         
 Topic 12: (Bits) (Optional, very rare Topic  in interviews, but if you have time left, someone might ask)                                                                                  
     1.	Check if a number if a power of 2 or not in O(1)                                                                                  
     2.	Count total set bits                                                                                  
@@ -105,6 +106,7 @@ Topic 12: (Bits) (Optional, very rare Topic  in interviews, but if you have time
     4.	Power Set (this is very important)                                                                                  
     5.	Find MSB in o(1)                                                                                  
     6.	Find square of a number without using multiplication or division operators.                                                                                                                                                                      
+                                            
 Topic 13: (Stack and Queue)                                                                                  
     1.	Implement Stack / Implement Queue                                                                                  
     2.	BFS                                                                                  
@@ -112,6 +114,7 @@ Topic 13: (Stack and Queue)
     4.	Implement Queue using Stack                                                                                  
     5.	Check for balanced parentheses                                                                                  
     6.	Next Greater Element                                                                                                                                                                    
+                                            
 Topic 14:                                                                                  
     1.	Next Smaller Element                                                                                  
     2.	LRU cache (vvvv. imp)                                                                                  
@@ -119,6 +122,7 @@ Topic 14:
     4.	Sliding Window maximum                                                                                  
     5.	Implement Min Stack                                                                                    
     6.	Rotten Orange (Using BFS)                                                                                                                                                                      
+                                            
 Topic 15: (String)                                                                                  
     1.	Reverse Words in a String                                                                                  
     2.	Longest Palindrome in a string                                                                                  
@@ -126,55 +130,63 @@ Topic 15: (String)
     4.	Implement ATOI/STRSTR                                                                                  
     5.	Longest Common Prefix                                                                                  
     6.	Rabin Karp                                                                                                                                                                    
+                                            
 Topic 16: (String)                                                                                  
     1.	Prefix Function/Z-Function                                                                                  
     2.	KMP algo                                                                                  
     3.	Minimum characters needed to be inserted in the beginning to make it palindromic.                                                                                  
     4.	Check for Anagrams                                                                                  
     5.	Count and Say                                                                                  
-    6.	Compare version numbers                                                                                                                                                                    
+    6.	Compare version numbers            
+                                                                                                                                                                                                    
 Topic 17: (Binary Tree)                                                                                                                                                        
     1.	Inorder Traversal (with recursion and without recursion)
     2.	Preorder Traversal (with recursion and without recursion)
     3.	Postorder Traversal (with recursion and without recursion)  
     4.	LeftView Of Binary Tree
     5.	Bottom View of Binary Tree
-    6.	Top View of Binary Tree                                                                                                                                                                    
+    6.	Top View of Binary Tree      
+                                                                                                                                                                                                          
 Topic 18: (Binary Tree)
     1.	Level order Traversal / Level order traversal in spiral form
     2.	Height of a Binary Tree
     3.	Diameter of Binary Tree
     4.	Check if Binary tree is height balanced or not
     5.	LCA in Binary Tree
-    6.	Check if two trees are identical or not                                                                                  
+    6.	Check if two trees are identical or not           
+                                                                                                                   
 Topic  19: (Binary Tree)
     1.	Maximum path sum
     2.	Construct Binary Tree from inorder and preorder
     3.	Construct Binary Tree from Inorder and Postorder
     4.	Symmetric Binary Tree
     5.	Flatten Binary Tree to LinkedList
-    6.	Check if Binary Tree is mirror of itself or not                                                                                    
+    6.	Check if Binary Tree is mirror of itself or not      
+                                                                                                                          
 Topic  20: (Binary Search Tree)
     1.	Populate Next Right pointers of Tree
     2.	Search given Key in BST
     3.	Construct BST from given keys.
     4.	Check is a BT is BST or not  
     5.	Find LCA of two nodes in BST
-    6.	Find the inorder predecessor/successor of a given Key in BST.                                                                                  
+    6.	Find the inorder predecessor/successor of a given Key in BST.       
+                                                                                                                       
 Topic 21: (BinarySearchTree)
     1.	Floor and Ceil in a BST
     2.	Find K-th smallest and K-th largest element in BST (2 different Questions)
     3.	Find a pair with a given sum in BST
     4.	BST iterator
     5.	Size of the largest BST in a Binary Tree
-    6.	Serialize and deserialize Binary Tree                                                                                  
+    6.	Serialize and deserialize Binary Tree          
+                                                                                                                    
 Topic 22: (Mixed Questions)
     1.	Binary Tree to Double Linked List
     2.	Find median in a stream of running integers.
     3.	K-th largest element in a stream.
     4.	Distinct numbers in Window.
     5.	K-th largest element in an unsorted array.
-    6.	Flood-fill Algorithm                                                                                  
+    6.	Flood-fill Algorithm                              
+                                                                                                
 Topic 23: (Graph)                                                                                  
     1.	Clone a graph (Not that easy as it looks)
     2.	DFS
@@ -182,14 +194,16 @@ Topic 23: (Graph)
     4.	Detect A cycle in Undirected Graph/Directed Graph
     5.	Topo Sort
     6.	Number of islands (Do in Grid and Graph both)
-    7.	Bipartite Check                                                                                  
+    7.	Bipartite Check                                   
+                                                                                           
 Topic 24: (Graph)
     1.	SCC(using KosaRaju’s algo)
     2.	Djisktra’s Algorithm
     3.	Bellman Ford Algo
     4.	Floyd Warshall Algorithm  
     5.	MST using Prim’s Algo
-    6.	MST using Kruskal’s Algo                                                                                    
+    6.	MST using Kruskal’s Algo            
+                                                                                                                    
 Topic 25: (Dynamic Programming)                                                                                  
     1.	Max Product Subarray
     2.	Longest Increasing Subsequence
@@ -197,7 +211,8 @@ Topic 25: (Dynamic Programming)
     4.	0-1 Knapsack
     5.	Edit Distance
     6.	Maximum sum increasing subsequence  
-    7.	Matrix Chain Multiplication                                                                                  
+    7.	Matrix Chain Multiplication     
+                                                                                                                         
 Topic 26: (DP)                                                                                  
     1.	Maximum sum path in matrix, (count paths, and similar type do, also backtrack to find the maximum path)                                                                
     2.	Coin change                                                                                  
@@ -205,23 +220,19 @@ Topic 26: (DP)
     4.	Rod Cutting                                                                                  
     5.	Egg Dropping                                                                                  
     6.	Word Break                                                                                  
-    7.	Palindrome Partitioning (MCM Variation)                                                                                  
+    7.	Palindrome Partitioning (MCM Variation)       
+                                                                                                                       
 Topic 27:                                                                                                                                                                    
 	Revise OS notes that you would have made during your sem
-                    	                                                                                                                                                                    
-	If not made notes, spend 2 or 3  Topic s and make notes from Knowledge Gate.
-Topic 28:                                                                                  
-
-
-	Revise DBMS notes that you would have made during your semesters.                                                                                                                                                                    
-	If not made notes, spend 2 or 3  Topic s and make notes from Knowledge Gate.
-	                                                                                  
-Topic 29:                                                                                  
+        					If not made notes, spend 2 or 3  Topic s and make notes from Knowledge Gate.
+                                            
+Topic 28:
+	Revise DBMS notes that you would have made during your semesters.                                                                                                               				If not made notes, spend 2 or 3  Topic s and make notes from Knowledge Gate.						
+	                                                                                  	
+Topic 29:                                                                                  					
 	Revise CN notes, that you would have made during your sem.                                                                                  
 	If not made notes, spend 2 or 3  Topic s and make notes from Knowledge Gate.                                                                                  
-Topic 30:                                                                                  
-                                                                                                                                                                    	
-	Make a note of how will your represent your projects, and prepare all questions related to tech which you have used in your projects. Prepare a note which you can say for 3-10 minutes when he asks you that say something about the project.
-	                                                                                  
+Topic 30: 				                                                                                                                                                        	
+	Make a note of how will your represent your projects, and prepare all questions related to tech which you have used in your projects. Prepare a note which you can say for 3-10 minutes when he asks you that say something about the project.					                                                  
     Hurrah!! You are ready for your placement after a month of hard-work without a cheat Topic .
 
