@@ -137,7 +137,7 @@ Topic 16: (String)
     3.	Minimum characters needed to be inserted in the beginning to make it palindromic.                                                                                  
     4.	Check for Anagrams                                                                                  
     5.	Count and Say                                                                                  
-    6.	Compare version numbers                                                                 
+    6.	Compare version numbers                                                                                                                                 
 Topic 17: (Binary Tree)                                                                                                                                                                                                                        
     1.	Inorder Traversal (with recursion and without recursion)                                                                
     2.	Preorder Traversal (with recursion and without recursion)                                                                
@@ -225,13 +225,13 @@ Topic 27:
 	Revise OS notes that you would have made during your sem
         					If not made notes, spend 2 or 3  Topic s and make notes from Knowledge Gate.
                                             
-Topic 28:
+Topic 28:                                                                
 	Revise DBMS notes that you would have made during your semesters.                                                                                                               				If not made notes, spend 2 or 3  Topic s and make notes from Knowledge Gate.						
 	                                                                                  	
-Topic 29:                                                                                  					
+Topic 29:                                                                                                                                                  					                                                                
 	Revise CN notes, that you would have made during your sem.                                                                                  
 	If not made notes, spend 2 or 3  Topic s and make notes from Knowledge Gate.                                                                                                                                                  
 Topic 30: 				                                                                                                                                                        	                                                                
-	Make a note of how will your represent your projects, and prepare all questions related to tech which you have used in your projects. Prepare a note which you can say for 3-10 minutes when he asks you that say something about the project.			                                                                		                                                  
-    Hurrah!! You are ready for your placement after a month of hard-work without a cheat Topic .
+	Make a note of how will your represent your projects, and prepare all questions related to tech which you have used in your projects.                                                                 Prepare a note which you can say for 3-10 minutes when he asks you that say something about the project.			                                                                		                                                  
+                                                                    Hurrah!! You are ready for your placement after a month of hard-work without a cheat Topic .
 
