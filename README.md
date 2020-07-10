@@ -126,25 +126,25 @@ Topic 14:
 Topic 15: (String)                                                                                  
     86	Reverse Words in a String                                                                                  
     87.Longest Palindrome in a string                                                                                  
-    3.	Roman Number to Integer and vice versa                                                                                  
-    4.	Implement ATOI/STRSTR                                                                                  
-    5.	Longest Common Prefix                                                                                  
-    6.	Rabin Karp                                                                                                                                                                    
+    88.	Roman Number to Integer and vice versa                                                                                  
+    89.	Implement ATOI/STRSTR                                                                                  
+    90.	Longest Common Prefix                                                                                  
+    91.	Rabin Karp                                                                                                                                                                    
                                             
 Topic 16: (String)                                                                                  
-    1.	Prefix Function/Z-Function                                                                                  
-    2.	KMP algo                                                                                  
-    3.	Minimum characters needed to be inserted in the beginning to make it palindromic.                                                                                  
-    4.	Check for Anagrams                                                                                  
-    5.	Count and Say                                                                                  
-    6.	Compare version numbers                                                                                                                                 
+    92.	Prefix Function/Z-Function                                                                                  
+    93.	KMP algo                                                                                  
+    94.	Minimum characters needed to be inserted in the beginning to make it palindromic.                                                                                  
+    95.	Check for Anagrams                                                                                  
+    96.	Count and Say                                                                                  
+    97.	Compare version numbers                                                                                                                                 
 Topic 17: (Binary Tree)                                                                                                                                                                                                                        
-    1.	Inorder Traversal (with recursion and without recursion)                                                                
-    2.	Preorder Traversal (with recursion and without recursion)                                                                
-    3.	Postorder Traversal (with recursion and without recursion)                                                                  
-    4.	LeftView Of Binary Tree                                                                
-    5.	Bottom View of Binary Tree                                                                
-    6.	Top View of Binary Tree                                                                      
+    98.	Inorder Traversal (with recursion and without recursion)                                                                
+    99.	Preorder Traversal (with recursion and without recursion)                                                                
+    100.	Postorder Traversal (with recursion and without recursion)                                                                  
+    101.	LeftView Of Binary Tree                                                                
+    102.	Bottom View of Binary Tree                                                                
+    103.	Top View of Binary Tree                                                                      
                                                                                                                                                                                                                                                                           
 Topic 18: (Binary Tree)                                                                
     1.	Level order Traversal / Level order traversal in spiral form                                                                
