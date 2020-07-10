@@ -29,7 +29,7 @@ Topic 3: (Math)
     3.	Count trailing zeros in factorial of a number                                                                                  
     4.	Find GCD in Log N                                                                                  
     5.	Grid Unique Paths                                                                                  
-    6.	Go through Puzzles from GFG (Search on own)                                                                                  
+    6.	Go through Puzzles from GFG (Search on own)                                                                                                                                                                    
                                                                                       
 										      
 Topic 4: (Hashing)                                                                                  
@@ -38,7 +38,8 @@ Topic 4: (Hashing)
     3.	Longest Consecutive Sequence                                                                                  
     4.	Longest Subarray with 0 sum                                                                                  
     5.	Count number of subarrays with given XOR(this clears a lot of problems)                                                                                  
-    6.	Longest substring without repeat                                                                                                                                                                    
+    6.	Longest substring without repeat 
+                                                                                  
 Topic 5: (LinkedList)                                                                                  
     1.	Reverse a LinkedList                                                                                  
     2.	Find middle of LinkedList                                                                                  
