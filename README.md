@@ -41,12 +41,13 @@ Topic 4: (Hashing)
     6.	Longest substring without repeat 
                                                                                   
 Topic 5: (LinkedList)                                                                                  
-    1.	Reverse a LinkedList                                                                                  
+    1.	Reverse a LinkedList                                                                                     
     2.	Find middle of LinkedList                                                                                  
     3.	Merge two sorted Linked List                                                                                  
     4.	Remove N-th node from back of LinkedList                                                                                  
     5.	Delete a given Node when a node is given. (0(1) solution)                                                                                  
     6.	Add two numbers as LinkedList                                                                                                                                                                      
+                                            
 Topic 6:                                                                                  
     1.	Find intersection point of Y LinkedList                                                                                  
     2.	Check if a LinkedList is palindrome or not.                                                                                  
@@ -55,6 +56,7 @@ Topic 6:
     5.	Flattening of a LinkedList                                                                                  
     6.	Rotate a LinkedList                                                                                  
     7.	Clone a Linked List with random and next pointer.                                                                                                                                                                    
+                                            
 .
 Topic 7: (2-pointer)                                                                                  
     1.	Merge two sorted LinkedLists                                                                                  
@@ -62,7 +64,8 @@ Topic 7: (2-pointer)
     3.	3 sum                                                                                  
     4.	Trapping rainwater                                                                                  
     5.	Remove Duplicate from Sorted array                                                                                  
-    6.	Max continuous number of 1’s                                                                                                                                                                      
+    6.	Max continuous number of 1’s          
+                                                                                                                                                                                                        
 Topic 8: (Greedy)                                                                                  
     1.	N meeting in one room                                                                                  
     2.	Activity Selection                                                                                    
@@ -70,6 +73,7 @@ Topic 8: (Greedy)
     4.	Fractional Knapsack Problem
     5.	Minimum number of platforms required for a railway                                                                                  
     6.	Job sequencing Problem                                                                                                                                                                    
+                                            
 Topic 9: (Backtracking)                                                                                  
     1.	N queens Problem                                                                                  
     2.	Sudoko                                                                                  
@@ -77,13 +81,16 @@ Topic 9: (Backtracking)
     4.	Rat in a Maze                                                                                  
     5.	Print all Permutations of a string/array                                                                                  
     6.	Word Break (print all ways)                                                                                                                                                                      
+    
+                                            
 Topic 10:                                                                                  
     1.	Combination sum-1                                                                                  
     2.	Combination sum-2                                                                                  
     3.	Palindrome Partioning                                                                                  
     4.	Subset Sum-1                                                                                  
-    5.	Subset Sum-2                                                                                                                                                                    
-    6.	K-th permutation Sequence                                                                                  
+    5.	Subset Sum-2                                                                                                                                                            
+    6.	K-th permutation Sequence      
+                                                                                                                        
 Topic 11: (Divide and Conquer)                                                                                  
     1.	1/N-th root of an integer (use binary search) (square root, cube root, ..)                                                                                  
     2.	Matrix Median                                                                                  
