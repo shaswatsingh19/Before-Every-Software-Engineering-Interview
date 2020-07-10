@@ -137,7 +137,7 @@ Topic 16: (String)
     94.	Minimum characters needed to be inserted in the beginning to make it palindromic.                                                                                  
     95.	Check for Anagrams                                                                                  
     96.	Count and Say                                                                                  
-    97.	Compare version numbers                                                                                                                                 
+    97.	Compare version numbers                                                                                                                                                                                                 
 Topic 17: (Binary Tree)                                                                                                                                                                                                                        
     98.	Inorder Traversal (with recursion and without recursion)                                                                
     99.	Preorder Traversal (with recursion and without recursion)                                                                
@@ -147,49 +147,49 @@ Topic 17: (Binary Tree)
     103.	Top View of Binary Tree                                                                      
                                                                                                                                                                                                                                                                           
 Topic 18: (Binary Tree)                                                                
-    1.	Level order Traversal / Level order traversal in spiral form                                                                
-    2.	Height of a Binary Tree                                                                
-    3.	Diameter of Binary Tree                                                                
-    4.	Check if Binary tree is height balanced or not                                                                
-    5.	LCA in Binary Tree                                                                
-    6.	Check if two trees are identical or not                                                                           
+    104.	Level order Traversal / Level order traversal in spiral form                                                                
+    105.	Height of a Binary Tree                                                                
+    106.	Diameter of Binary Tree                                                                
+    107.	Check if Binary tree is height balanced or not                                                                
+    108.	LCA in Binary Tree                                                                
+    109.	Check if two trees are identical or not                                                                           
                                                                                                                                                                                    
 Topic  19: (Binary Tree)                                                                
-    1.	Maximum path sum                                                                
-    2.	Construct Binary Tree from inorder and preorder                                                                
-    3.	Construct Binary Tree from Inorder and Postorder                                                                
-    4.	Symmetric Binary Tree                                                                
-    5.	Flatten Binary Tree to LinkedList                                                                
-    6.	Check if Binary Tree is mirror of itself or not                                                                      
+    110.	Maximum path sum                                                                
+    111.	Construct Binary Tree from inorder and preorder                                                                
+    112.	Construct Binary Tree from Inorder and Postorder                                                                
+    113.	Symmetric Binary Tree                                                                
+    114.	Flatten Binary Tree to LinkedList                                                                
+    115.	Check if Binary Tree is mirror of itself or not                                                                      
                                                                                                                                                                                           
 Topic  20: (Binary Search Tree)                                                                
-    1.	Populate Next Right pointers of Tree                                                                
-    2.	Search given Key in BST                                                                
-    3.	Construct BST from given keys.                                                                
-    4.	Check is a BT is BST or not                                                                  
-    5.	Find LCA of two nodes in BST                                                                
-    6.	Find the inorder predecessor/successor of a given Key in BST.                                                                       
+    116.	Populate Next Right pointers of Tree                                                                
+    117.	Search given Key in BST                                                                
+    118.	Construct BST from given keys.                                                                
+    119.	Check is a BT is BST or not                                                                  
+    120.	Find LCA of two nodes in BST                                                                
+    121.	Find the inorder predecessor/successor of a given Key in BST.                                                                       
                                                                                                                        
 Topic 21: (BinarySearchTree)                                                                
-    1.	Floor and Ceil in a BST                                                                
-    2.	Find K-th smallest and K-th largest element in BST (2 different Questions)                                                                
-    3.	Find a pair with a given sum in BST                                                                
-    4.	BST iterator                                                                
-    5.	Size of the largest BST in a Binary Tree                                                                
-    6.	Serialize and deserialize Binary Tree                                                                          
+    122.	Floor and Ceil in a BST                                                                
+    123.	Find K-th smallest and K-th largest element in BST (2 different Questions)                                                                
+    124.	Find a pair with a given sum in BST                                                                
+    125.	BST iterator                                                                
+    126.	Size of the largest BST in a Binary Tree                                                                
+    127.	Serialize and deserialize Binary Tree                                                                          
                                                                                                                                                                                     
 Topic 22: (Mixed Questions)                                                                
-    1.	Binary Tree to Double Linked List                                                                
-    2.	Find median in a stream of running integers.                                                                
-    3.	K-th largest element in a stream.                                                                
-    4.	Distinct numbers in Window.                                                                
-    5.	K-th largest element in an unsorted array.                                                                
-    6.	Flood-fill Algorithm                                                                                              
+    128.	Binary Tree to Double Linked List                                                                
+    129.	Find median in a stream of running integers.                                                                
+    130.	K-th largest element in a stream.                                                                
+    131.	Distinct numbers in Window.                                                                
+    132.	K-th largest element in an unsorted array.                                                                
+    133.	Flood-fill Algorithm                                                                                              
                                                                                                                                                                                                                                 
 Topic 23: (Graph)                                                                                                                                                  
-    1.	Clone a graph (Not that easy as it looks)                                                                
-    2.	DFS                                                                
-    3.	BFS                                                                
+    134.Clone a graph (Not that easy as it looks)                                                                
+    135.DFS                                                                
+    136.BFS                                                                
     4.	Detect A cycle in Undirected Graph/Directed Graph                                                                
     5.	Topo Sort                                                                
     6.	Number of islands (Do in Grid and Graph both)                                                                
