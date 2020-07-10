@@ -137,89 +137,88 @@ Topic 16: (String)
     3.	Minimum characters needed to be inserted in the beginning to make it palindromic.                                                                                  
     4.	Check for Anagrams                                                                                  
     5.	Count and Say                                                                                  
-    6.	Compare version numbers            
-                                                                                                                                                                                                    
-Topic 17: (Binary Tree)                                                                                                                                                        
-    1.	Inorder Traversal (with recursion and without recursion)
-    2.	Preorder Traversal (with recursion and without recursion)
-    3.	Postorder Traversal (with recursion and without recursion)  
-    4.	LeftView Of Binary Tree
-    5.	Bottom View of Binary Tree
-    6.	Top View of Binary Tree      
-                                                                                                                                                                                                          
-Topic 18: (Binary Tree)
-    1.	Level order Traversal / Level order traversal in spiral form
-    2.	Height of a Binary Tree
-    3.	Diameter of Binary Tree
-    4.	Check if Binary tree is height balanced or not
-    5.	LCA in Binary Tree
-    6.	Check if two trees are identical or not           
-                                                                                                                   
-Topic  19: (Binary Tree)
-    1.	Maximum path sum
-    2.	Construct Binary Tree from inorder and preorder
-    3.	Construct Binary Tree from Inorder and Postorder
-    4.	Symmetric Binary Tree
-    5.	Flatten Binary Tree to LinkedList
-    6.	Check if Binary Tree is mirror of itself or not      
-                                                                                                                          
-Topic  20: (Binary Search Tree)
-    1.	Populate Next Right pointers of Tree
-    2.	Search given Key in BST
-    3.	Construct BST from given keys.
-    4.	Check is a BT is BST or not  
-    5.	Find LCA of two nodes in BST
-    6.	Find the inorder predecessor/successor of a given Key in BST.       
+    6.	Compare version numbers                                                                 
+Topic 17: (Binary Tree)                                                                                                                                                                                                                        
+    1.	Inorder Traversal (with recursion and without recursion)                                                                
+    2.	Preorder Traversal (with recursion and without recursion)                                                                
+    3.	Postorder Traversal (with recursion and without recursion)                                                                  
+    4.	LeftView Of Binary Tree                                                                
+    5.	Bottom View of Binary Tree                                                                
+    6.	Top View of Binary Tree                                                                      
+                                                                                                                                                                                                                                                                          
+Topic 18: (Binary Tree)                                                                
+    1.	Level order Traversal / Level order traversal in spiral form                                                                
+    2.	Height of a Binary Tree                                                                
+    3.	Diameter of Binary Tree                                                                
+    4.	Check if Binary tree is height balanced or not                                                                
+    5.	LCA in Binary Tree                                                                
+    6.	Check if two trees are identical or not                                                                           
+                                                                                                                                                                                   
+Topic  19: (Binary Tree)                                                                
+    1.	Maximum path sum                                                                
+    2.	Construct Binary Tree from inorder and preorder                                                                
+    3.	Construct Binary Tree from Inorder and Postorder                                                                
+    4.	Symmetric Binary Tree                                                                
+    5.	Flatten Binary Tree to LinkedList                                                                
+    6.	Check if Binary Tree is mirror of itself or not                                                                      
+                                                                                                                                                                                          
+Topic  20: (Binary Search Tree)                                                                
+    1.	Populate Next Right pointers of Tree                                                                
+    2.	Search given Key in BST                                                                
+    3.	Construct BST from given keys.                                                                
+    4.	Check is a BT is BST or not                                                                  
+    5.	Find LCA of two nodes in BST                                                                
+    6.	Find the inorder predecessor/successor of a given Key in BST.                                                                       
                                                                                                                        
-Topic 21: (BinarySearchTree)
-    1.	Floor and Ceil in a BST
-    2.	Find K-th smallest and K-th largest element in BST (2 different Questions)
-    3.	Find a pair with a given sum in BST
-    4.	BST iterator
-    5.	Size of the largest BST in a Binary Tree
-    6.	Serialize and deserialize Binary Tree          
-                                                                                                                    
-Topic 22: (Mixed Questions)
-    1.	Binary Tree to Double Linked List
-    2.	Find median in a stream of running integers.
-    3.	K-th largest element in a stream.
-    4.	Distinct numbers in Window.
-    5.	K-th largest element in an unsorted array.
-    6.	Flood-fill Algorithm                              
-                                                                                                
-Topic 23: (Graph)                                                                                  
-    1.	Clone a graph (Not that easy as it looks)
-    2.	DFS
-    3.	BFS
-    4.	Detect A cycle in Undirected Graph/Directed Graph
-    5.	Topo Sort
-    6.	Number of islands (Do in Grid and Graph both)
-    7.	Bipartite Check                                   
+Topic 21: (BinarySearchTree)                                                                
+    1.	Floor and Ceil in a BST                                                                
+    2.	Find K-th smallest and K-th largest element in BST (2 different Questions)                                                                
+    3.	Find a pair with a given sum in BST                                                                
+    4.	BST iterator                                                                
+    5.	Size of the largest BST in a Binary Tree                                                                
+    6.	Serialize and deserialize Binary Tree                                                                          
+                                                                                                                                                                                    
+Topic 22: (Mixed Questions)                                                                
+    1.	Binary Tree to Double Linked List                                                                
+    2.	Find median in a stream of running integers.                                                                
+    3.	K-th largest element in a stream.                                                                
+    4.	Distinct numbers in Window.                                                                
+    5.	K-th largest element in an unsorted array.                                                                
+    6.	Flood-fill Algorithm                                                                                              
+                                                                                                                                                                                                                                
+Topic 23: (Graph)                                                                                                                                                  
+    1.	Clone a graph (Not that easy as it looks)                                                                
+    2.	DFS                                                                
+    3.	BFS                                                                
+    4.	Detect A cycle in Undirected Graph/Directed Graph                                                                
+    5.	Topo Sort                                                                
+    6.	Number of islands (Do in Grid and Graph both)                                                                
+    7.	Bipartite Check                                                                                                   
                                                                                            
-Topic 24: (Graph)
-    1.	SCC(using KosaRaju’s algo)
-    2.	Djisktra’s Algorithm
-    3.	Bellman Ford Algo
+Topic 24: (Graph)                                                                
+    1.	SCC(using KosaRaju’s algo)                                                                
+    2.	Djisktra’s Algorithm                                                                
+    3.	Bellman Ford Algo                                                                
     4.	Floyd Warshall Algorithm  
-    5.	MST using Prim’s Algo
-    6.	MST using Kruskal’s Algo            
-                                                                                                                    
-Topic 25: (Dynamic Programming)                                                                                  
-    1.	Max Product Subarray
+    5.	MST using Prim’s Algo                                                                
+    6.	MST using Kruskal’s Algo                                                                            
+                                                                                                                                                                                                                                                    
+Topic 25: (Dynamic Programming)                                                                                                                                                                                                                  
+    1.	Max Product Subarray                                                                
     2.	Longest Increasing Subsequence
-    3.	Longest Common Subsequence
-    4.	0-1 Knapsack
-    5.	Edit Distance
-    6.	Maximum sum increasing subsequence  
-    7.	Matrix Chain Multiplication     
+    3.	Longest Common Subsequence                                                                                                                                
+    4.	0-1 Knapsack                                                                
+    5.	Edit Distance                                                                
+    6.	Maximum sum increasing subsequence                                                                                                                                  
+    7.	Matrix Chain Multiplication                                                                     
                                                                                                                          
-Topic 26: (DP)                                                                                  
-    1.	Maximum sum path in matrix, (count paths, and similar type do, also backtrack to find the maximum path)                                                                
-    2.	Coin change                                                                                  
-    3.	Subset Sum                                                                                  
-    4.	Rod Cutting                                                                                  
-    5.	Egg Dropping                                                                                  
-    6.	Word Break                                                                                  
+Topic 26: (DP)                                                                                                                                                  
+    1.	Maximum sum path in matrix, (count paths, and similar type do, also backtrack to find the maximum path)                                                                                                                                
+    2.	Coin change                                                                                                                                                  
+    3.	Subset Sum                                                                                                                                                  
+    4.	Rod Cutting                                                                                                                                                  
+    5.	Egg Dropping                                                                                                                                                  
+    6.	Word Break                                                                                                                                                  
     7.	Palindrome Partitioning (MCM Variation)       
                                                                                                                        
 Topic 27:                                                                                                                                                                    
@@ -231,8 +230,8 @@ Topic 28:
 	                                                                                  	
 Topic 29:                                                                                  					
 	Revise CN notes, that you would have made during your sem.                                                                                  
-	If not made notes, spend 2 or 3  Topic s and make notes from Knowledge Gate.                                                                                  
-Topic 30: 				                                                                                                                                                        	
-	Make a note of how will your represent your projects, and prepare all questions related to tech which you have used in your projects. Prepare a note which you can say for 3-10 minutes when he asks you that say something about the project.					                                                  
+	If not made notes, spend 2 or 3  Topic s and make notes from Knowledge Gate.                                                                                                                                                  
+Topic 30: 				                                                                                                                                                        	                                                                
+	Make a note of how will your represent your projects, and prepare all questions related to tech which you have used in your projects. Prepare a note which you can say for 3-10 minutes when he asks you that say something about the project.			                                                                		                                                  
     Hurrah!! You are ready for your placement after a month of hard-work without a cheat Topic .
 
