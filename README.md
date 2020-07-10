@@ -137,7 +137,7 @@ Topic 16: (String)
     94.	Minimum characters needed to be inserted in the beginning to make it palindromic.                                                                                  
     95.	Check for Anagrams                                                                                  
     96.	Count and Say                                                                                  
-    97.	Compare version numbers                                                                                                                                                                                                 
+    97.	Compare version numbers        												                                                                                                                                                                                         
 Topic 17: (Binary Tree)                                                                                                                                                                                                                        
     98.	Inorder Traversal (with recursion and without recursion)                                                                
     99.	Preorder Traversal (with recursion and without recursion)                                                                
@@ -190,36 +190,36 @@ Topic 23: (Graph)
     134.Clone a graph (Not that easy as it looks)                                                                
     135.DFS                                                                
     136.BFS                                                                
-    4.	Detect A cycle in Undirected Graph/Directed Graph                                                                
-    5.	Topo Sort                                                                
-    6.	Number of islands (Do in Grid and Graph both)                                                                
-    7.	Bipartite Check                                                                                                   
+    137.	Detect A cycle in Undirected Graph/Directed Graph                                                                
+    138.	Topo Sort                                                                
+    139.	Number of islands (Do in Grid and Graph both)                                                                
+    140.	Bipartite Check                                                                                                   
                                                                                            
 Topic 24: (Graph)                                                                
-    1.	SCC(using KosaRaju’s algo)                                                                
-    2.	Djisktra’s Algorithm                                                                
-    3.	Bellman Ford Algo                                                                
-    4.	Floyd Warshall Algorithm  
-    5.	MST using Prim’s Algo                                                                
-    6.	MST using Kruskal’s Algo                                                                            
+    141.	SCC(using KosaRaju’s algo)                                                                
+    142.	Djisktra’s Algorithm                                                                
+    143.	Bellman Ford Algo                                                                
+    144.	Floyd Warshall Algorithm  
+    145.	MST using Prim’s Algo                                                                
+    146.	MST using Kruskal’s Algo                                                                            
                                                                                                                                                                                                                                                     
 Topic 25: (Dynamic Programming)                                                                                                                                                                                                                  
-    1.	Max Product Subarray                                                                
-    2.	Longest Increasing Subsequence
-    3.	Longest Common Subsequence                                                                                                                                
-    4.	0-1 Knapsack                                                                
-    5.	Edit Distance                                                                
-    6.	Maximum sum increasing subsequence                                                                                                                                  
-    7.	Matrix Chain Multiplication                                                                     
+    147.	Max Product Subarray                                                                
+    148.	Longest Increasing Subsequence
+    149.	Longest Common Subsequence                                                                                                                                
+    150.	0-1 Knapsack                                                                
+    151.	Edit Distance                                                                
+    152.	Maximum sum increasing subsequence                                                                                                                                  
+    153.	Matrix Chain Multiplication                                                                     
                                                                                                                          
 Topic 26: (DP)                                                                                                                                                  
-    1.	Maximum sum path in matrix, (count paths, and similar type do, also backtrack to find the maximum path)                                                                                                                                
-    2.	Coin change                                                                                                                                                  
-    3.	Subset Sum                                                                                                                                                  
-    4.	Rod Cutting                                                                                                                                                  
-    5.	Egg Dropping                                                                                                                                                  
-    6.	Word Break                                                                                                                                                  
-    7.	Palindrome Partitioning (MCM Variation)       
+    154.	Maximum sum path in matrix, (count paths, and similar type do, also backtrack to find the maximum path)                                                                                                                                
+    155.	Coin change                                                                                                                                                  
+    156.	Subset Sum                                                                                                                                                  
+    157.	Rod Cutting                                                                                                                                                  
+    158.	Egg Dropping                                                                                                                                                  
+    159.	Word Break                                                                                                                                                  
+    160.	Palindrome Partitioning (MCM Variation)       
                                                                                                                        
 Topic 27:                                                                                                                                                                    
 	Revise OS notes that you would have made during your sem
